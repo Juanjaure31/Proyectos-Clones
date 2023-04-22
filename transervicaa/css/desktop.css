@@ -1,0 +1,38 @@
+.section-two-flex {
+    display: flex;
+}
+
+.section-sevicio {
+    display: flex;
+    padding-top: 20px;
+}
+
+.contacto {
+    display: flex;
+}
+
+.contacto-conatiner{
+    margin-left: 60px;
+}
+
+.info {
+    max-width: 650px;
+    justify-content: center;
+}
+
+.contacto-container-image span{
+    display: inline-block;
+    width: 500px;
+    height: 330px;
+    margin-left: 100px;
+    border-radius: 50%;
+    background: none;
+    background-image: url(../assets/servicio-al-cliente.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.articles-container-slider {
+    justify-content: center;
+}
+

@@ -1,0 +1,17 @@
+:root {
+    --blue: #184c4f;
+    --green: #b6d15c;
+    --gray: #808080;
+    --white: #fff;
+    --titiluim: 'Titillium Web';
+}
+
+.header-container {
+    background: var(--blue);
+    height: 120px;
+}
+
+.section-info-flex {
+    display: flex;
+}
+
